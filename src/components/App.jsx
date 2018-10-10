@@ -12,7 +12,16 @@ class App extends React.Component{
                 {
                     id: 1,
                     text: "blah"
-                }
+                },
+                {
+                    id: 2, 
+                    text: "bleh"
+                },
+                {
+                    id: 3,
+                    text: "fml"
+                },
+
             ],
         };
     }
